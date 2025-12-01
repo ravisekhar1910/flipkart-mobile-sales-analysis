@@ -1,44 +1,77 @@
-# Flipkart Mobile Sales Analysis (2020–2024)
+# Flipkart Mobile Sales Dashboard – Excel
 
-This project analyzes Flipkart's mobile phone sales from 2020 to 2024 using Excel.  
-The dashboard provides quick insights into sales performance, top models, color trends, discount patterns, and yearly brand performance.
-
----
-
-## Dashboard KPIs
-
-- **Total Sales:** 8.23 Cr  
-- **Average Original Price:** 28.33K  
-- **Average Selling Price:** 26.44K  
-- **Total Quantity Sold:** 3.11K  
-- **Average Discount:** 6.84%
+This project analyzes Flipkart mobile sales between 2020–2024 using Excel.  
+KPIs, Pivot Tables, Pivot Charts, and slicers are used to generate insights on pricing, discount behavior, top-selling models, and monthly performance.
 
 ---
 
-## Key Visuals in the Dashboard
-
-- Top 5 Models by Sales  
-- Top 5 Models by Rating  
-- Top 5 Model Colors by Sales  
-- Monthly Sales by Brands  
-- Monthly Discount Trend  
-- Yearly Sales by Brands  
-- Brand Slicers  
-- Quarter Filters  
-- Light / Dark Mode Toggle
+## 📌 Objectives
+- Analyze mobile sales performance (2020–2024)  
+- Identify high-revenue brands and models  
+- Study discount patterns and pricing impact  
+- Understand seasonal and monthly sales trends  
+- Build an interactive Excel dashboard  
 
 ---
 
-## Skills Used
+## 📂 Dataset
+File: Flipkart_Mobile_Sales.xlsx  
+Total Records: 3,114
 
-- Pivot Tables  
+Fields:
+- Model  
+- Brand  
+- Original Price  
+- Selling Price  
+- Rating  
+- Color  
+- Year / Month  
+
+Tool: **Microsoft Excel**
+
+---
+
+## 🧮 Key Metrics
+- **Total Sales:** ₹8.23 Cr  
+- **Units Sold:** 3,114  
+- **Average Original Price:** ₹28,330  
+- **Average Selling Price:** ₹26,440  
+- **Average Discount:** 6.84%  
+
+---
+
+## 📊 Analysis Performed
+**1) KPI Cards**
+- Total Sales  
+- Avg Original Price  
+- Avg Selling Price  
+- Units Sold  
+- Avg Discount  
+
+**2) Visuals Used**
 - Pivot Charts  
-- Slicers & Filters  
-- Conditional Formatting  
-- Form Controls  
-- Excel Dashboard Design
+- Line charts (monthly trends)  
+- Bar charts (top models, ratings)  
+- Donut charts (color performance)  
+- Slicers (Year, Quarter, Brand)  
+
+**3) Key Insights**
+- Apple models dominate sales across multiple years  
+- iPhone 13 Pro Max and iPhone 11 Pro generate the highest revenue  
+- Gold, Silver, and Black colors have highest demand  
+- Discount peaks in March & July  
+- Strong sales in December (seasonal demand)  
 
 ---
 
-## Project Structure
+## 💡 Recommendations
+- Increase stock for high-selling Apple models  
+- Offer targeted discounts during off-peak months  
+- Promote top-rated affordable models  
+- Use color preference trends for inventory planning  
 
+---
+
+## ✅ Conclusion
+The Excel dashboard provides clear insights into sales behavior, pricing effectiveness, and customer preferences.  
+It helps improve forecasting, inventory planning, and promotional strategies for e-commerce decision-making.
